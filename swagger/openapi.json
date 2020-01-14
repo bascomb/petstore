@@ -18,6 +18,9 @@
     "url" : "http://swagger.io"
   },
   "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/bascombarnette/petstore/1.0.0-oas3",
+    "description" : "SwaggerHub API Auto Mocking"
+  }, {
     "url" : "https://virtserver.swaggerhub.com/bascombarnette/petstore/1.0.0"
   }, {
     "url" : "http://virtserver.swaggerhub.com/bascombarnette/petstore/1.0.0"
